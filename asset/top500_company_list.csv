@@ -1,0 +1,504 @@
+Ticker,Company Name,Market Cap,Orbit Company Id
+NVDA,NVIDIA Corporation,"3,574.09B",tXmne0RQQbUtj8yn
+AAPL,Apple Inc.,"3,461.52B",tXmne0RQQbPNNzot
+MSFT,Microsoft Corporation,"3,089.12B",tXmne0RQQbPP3gaO
+GOOG,Alphabet Inc.,"2,243.94B",tXmoG2W2gFCNL8WE
+GOOGL,Alphabet Inc.,"2,208.55B",tXmoG2W2gFCNL8WE
+AMZN,"Amazon.com, Inc.","2,133.29B",tXmne0RQQbPNNitI
+META,"Meta Platforms, Inc.","1,427.65B",tXmne0RTnR3WGsBf
+TSLA,"Tesla, Inc.","1,097.94B",tXmne0RTnfgXG4Ee
+BRK.B,Berkshire Hathaway Inc.,"1,011.02B",tXmne0RQQbPRcKOY
+AVGO,Broadcom Inc.,762.47B,tXmoG3c0kCb2Yt6R
+WMT,Walmart Inc.,700.77B,tXmne0RQQbPNMKnI
+LLY,Eli Lilly and Company,678.39B,tXmne0RQQbPMETqq
+JPM,JPMorgan Chase & Co.,677.88B,tXmoG2G39BtX5aqP
+V,Visa Inc.,602.40B,tXmne0RUFagBQzOf
+UNH,UnitedHealth Group Incorporated,552.63B,tXmoG22t0bXvqEhx
+XOM,Exxon Mobil Corporation,528.82B,tXmne0RQQbUq2wuX
+ORCL,Oracle Corporation,528.58B,tXmne0RQQbPP35r7
+MA,Mastercard Incorporated,470.43B,tXmne0RQQbPKonu0
+COST,Costco Wholesale Corporation,411.21B,tXmne0RQQbUq4Jh5
+PG,The Procter & Gamble Company,402.45B,tXmne0RQQbPLvW0x
+HD,"The Home Depot, Inc.",397.35B,tXmne0RQQbPLvFXw
+NFLX,"Netflix, Inc.",377.81B,tXmne0RQQbPKnhvo
+JNJ,Johnson & Johnson,368.63B,tXmne0RQQbPMECzJ
+BAC,Bank of America Corporation,353.41B,tXms64W1bZ1kN5Ir
+CRM,"Salesforce, Inc.",311.37B,tXmne0RQQbUus5m3
+ABBV,AbbVie Inc.,296.46B,tXmoG2Xbhxht6L9z
+CVX,Chevron Corporation,289.92B,tXmne0RQQbPLxkfE
+TMUS,"T-Mobile US, Inc.",273.26B,tXmne0RQQbPH6uFg
+KO,The Coca-Cola Company,271.35B,tXmne0RQQbPLvpe1
+MRK,"Merck & Co., Inc.",246.49B,tXmne0RQQbPMFapn
+WFC,Wells Fargo & Company,244.98B,tXms64W1bZ1kNxSP
+CSCO,"Cisco Systems, Inc.",229.01B,tXmoG3nElMdOJYIP
+BX,Blackstone Inc.,226.03B,tXmne0RQQbPKoVsU
+AMD,"Advanced Micro Devices, Inc.",223.30B,tXmne0RQQbPLvXlb
+ACN,Accenture plc,223.12B,tXmne0RQQbPLvoH5
+ADBE,Adobe Inc.,219.88B,tXmne0RQQbPNNh4T
+PEP,"PepsiCo, Inc.",217.79B,tXmne0RQQbPMFIzA
+LIN,Linde plc,214.34B,tXmoG3nIf3XvWWcn
+MS,Morgan Stanley,212.16B,tXmne0RQQbPMFaJ1
+NOW,"ServiceNow, Inc.",211.06B,tXmoG2G4ax0ITGWB
+MCD,McDonald's Corporation,208.47B,tXmne0RQQbPMETXx
+DIS,The Walt Disney Company,206.92B,tXmoG3c5ujLdCON3
+PM,Philip Morris International Inc.,202.73B,tXmne0RUFagBQzOe
+AXP,American Express Company,202.68B,tXmne0RQQbPLwdVl
+ABT,Abbott Laboratories,201.08B,tXmne0RQQbPLvW8L
+IBM,International Business Machines Corporation,198.43B,tXmne0RQQbPMECjj
+TMO,Thermo Fisher Scientific Inc.,196.16B,tXmne0RQQbPNMb5g
+ISRG,"Intuitive Surgical, Inc.",192.99B,tXmne0RQQbUsc7pA
+GE,General Electric Company,192.63B,tXmne0RQQbPLvFPg
+GS,"The Goldman Sachs Group, Inc.",191.58B,tXmne0RQQbUpWkDv
+CAT,Caterpillar Inc.,184.19B,tXmne0RQQbPLw3o4
+INTU,Intuit Inc.,182.36B,tXmne0RQQbPOWMZG
+TXN,Texas Instruments Incorporated,180.79B,tXmne0RQQbPNMb5b
+VZ,Verizon Communications Inc.,177.73B,tXmne0RQQbUpWkHG
+QCOM,QUALCOMM Incorporated,171.39B,tXmne0RQQbPP4T4c
+DHR,Danaher Corporation,168.36B,tXmne0RQQbPLxBex
+BKNG,Booking Holdings Inc.,166.03B,tXmne0RQQbUtkqcC
+CMCSA,Comcast Corporation,164.50B,tXmne0RQQbPRcKXf
+T,AT&T Inc.,163.81B,tXmne0RQQbPMFZS3
+BLK,"BlackRock, Inc.",158.70B,tXmne0RQQbPH8G7w
+RTX,RTX Corporation,158.59B,tXmne0RQQbPNMtgq
+NEE,"NextEra Energy, Inc.",158.10B,tXmne0RQQbPLxSpR
+SPGI,S&P Global Inc.,155.95B,tXmne0RQQbPMETXt
+AMGN,Amgen Inc.,154.74B,tXmne0RQQbPNNy71
+PGR,The Progressive Corporation,150.57B,tXmne0RQQbPMFIUf
+LOW,"Lowe's Companies, Inc.",148.61B,tXmne0RQQbPMETyE
+HON,Honeywell International Inc.,147.39B,tXmne0RQQbUq2wHp
+SCHW,The Charles Schwab Corporation,147.29B,tXms64W1bZ1kN5Aa
+SYK,Stryker Corporation,147.03B,tXmne0RQQbPMGhcE
+UBER,"Uber Technologies, Inc.",146.56B,tXmoG2XbgU1hwYdv
+ETN,Eaton Corporation plc,142.45B,tXmoG2XbhxmhAokY
+UNP,Union Pacific Corporation,141.60B,tXmne0RQQbPNMs8b
+PLTR,Palantir Technologies Inc.,141.51B,tXmne0RQQchZdkfF
+PFE,Pfizer Inc.,141.33B,tXmne0RQQbPMFIDC
+AMAT,"Applied Materials, Inc.",140.55B,tXmne0RQQbPNNzsB
+KKR,KKR & Co. Inc.,135.17B,tXmne0RTo7pVc30e
+TJX,"The TJX Companies, Inc.",135.05B,tXmne0RQQbPNMbOL
+BSX,Boston Scientific Corporation,132.90B,tXmne0RQQbPLwMp8
+COP,ConocoPhillips,130.55B,tXmne0RQQbPLvoYv
+C,Citigroup Inc.,130.26B,tXms64W1bZ1kN5z8
+PANW,"Palo Alto Networks, Inc.",128.57B,tXmne0RR5i8KLyOo
+LMT,Lockheed Martin Corporation,126.75B,tXmoG2G39BMRNn1Y
+FI,"Fiserv, Inc.",123.99B,tXmne0RQQbPOVXrV
+ADP,"Automatic Data Processing, Inc.",121.66B,tXmne0RQQbPLwLXc
+ANET,"Arista Networks, Inc.",120.22B,tXmoG22oQaJoJeB0
+BMY,Bristol-Myers Squibb Company,117.39B,tXmne0RQQbPLw20j
+VRTX,Vertex Pharmaceuticals Incorporated,116.20B,tXmne0RQQbPRccst
+CB,Chubb Limited,114.01B,tXmoG2G4bMPTU5mP
+UPS,"United Parcel Service, Inc.",112.72B,tXmne0RQQbUq24w0
+SBUX,Starbucks Corporation,111.38B,tXmne0RQQbPRbnfd
+DE,Deere & Company,110.80B,tXmne0RQQbPLvFGW
+GILD,"Gilead Sciences, Inc.",110.34B,tXmne0RQQbPOVX21
+NKE,"NIKE, Inc.",109.20B,tXmne0RQQbPMFrAy
+BA,The Boeing Company,109.15B,tXmne0RQQbPLvo6Q
+MU,"Micron Technology, Inc.",109.07B,tXmne0RQQbPLvF9S
+MMC,"Marsh & McLennan Companies, Inc.",109.01B,tXmne0RQQbPMETPe
+PLD,"Prologis, Inc.",107.89B,tXmne0RQQbPLvW8J
+MDT,Medtronic plc,107.87B,tXmoG22p8pBYsD5a
+ADI,"Analog Devices, Inc.",104.77B,tXmne0RQQbPLwen9
+INTC,Intel Corporation,103.56B,tXmne0RQQbPOWMNg
+SO,The Southern Company,96.39B,tXmne0RQQbPLvWWr
+MO,"Altria Group, Inc.",94.88B,tXmne0RQQbPLvWJ1
+GEV,GE Vernova Inc.,94.49B,tXmoG3nL7wWKESH0
+DELL,Dell Technologies Inc.,94.04B,tXmoG22mf0HyI2kG
+AMT,American Tower Corporation,93.87B,tXmne0RQQbPLwej6
+SHW,The Sherwin-Williams Company,93.28B,tXmne0RQQbPMGgFA
+TT,Trane Technologies plc,92.52B,tXmoG2G4btVQvlJ3
+ELV,"Elevance Health, Inc.",92.18B,tXmne0RQQbPJgxtE
+LRCX,Lam Research Corporation,90.13B,tXmne0RQQbPOW32H
+CI,The Cigna Group,89.95B,tXmoG3c4cHYoE3oa
+ICE,"Intercontinental Exchange, Inc.",89.44B,tXmoG2XcAoSyEGeX
+PH,Parker-Hannifin Corporation,88.87B,tXmne0RQQbPLvWJ0
+EQIX,"Equinix, Inc.",88.67B,tXmne0RQQbPH7jSn
+CTAS,Cintas Corporation,88.22B,tXmne0RQQbPNOFsn
+DUK,Duke Energy Corporation,87.86B,tXmne0RQQbPLxBDm
+WM,"Waste Management, Inc.",87.81B,tXmne0RQQbPNM0TB
+MDLZ,"Mondelez International, Inc.",86.14B,tXmne0RQPS9T2aDR
+MCO,Moody's Corporation,86.01B,tXms64W1bZ1kNOJs
+CRWD,"CrowdStrike Holdings, Inc.",85.83B,tXmoG2XbfYD244r0
+WELL,Welltower Inc.,85.56B,tXmne0RQQbPMD4xO
+APH,Amphenol Corporation,85.47B,tXmne0RQQbPLwd7J
+PYPL,"PayPal Holdings, Inc.",84.96B,tXmoG22sJPKCdB9y
+ABNB,"Airbnb, Inc.",84.50B,tXmoG2G5sMvX9baL
+HCA,"HCA Healthcare, Inc.",84.35B,tXmoG2G5r9zAGDJd
+CDNS,"Cadence Design Systems, Inc.",83.38B,tXmne0RQQbPLw28x
+SNPS,"Synopsys, Inc.",83.19B,tXmne0RQQbPRbnH7
+KLAC,KLA Corporation,82.51B,tXmne0RQQbPOW3DY
+MSI,"Motorola Solutions, Inc.",82.32B,tXmne0RQQbPMFaN4
+AON,Aon plc,82.20B,tXmoG3ioeeyiDcJF
+CME,CME Group Inc.,82.16B,tXmne0RQPS9T1S3R
+PNC,"The PNC Financial Services Group, Inc.",80.92B,tXmne0RQQbPMFrVi
+CMG,"Chipotle Mexican Grill, Inc.",80.29B,tXmne0RQQbPH6ucg
+REGN,"Regeneron Pharmaceuticals, Inc.",79.98B,tXmne0RQQbPP4UoM
+ZTS,Zoetis Inc.,79.26B,tXmoG2XbhxAktVNc
+USB,U.S. Bancorp,79.16B,tXms64W1bZ1kNxWV
+MCK,McKesson Corporation,78.85B,tXmne0RQQbUq2wTQ
+ITW,Illinois Tool Works Inc.,78.66B,tXmne0RQQbPMElko
+MAR,"Marriott International, Inc.",77.86B,tXmne0RQQbPMETTi
+GD,General Dynamics Corporation,76.88B,tXmne0RQQbPLvFTm
+CL,Colgate-Palmolive Company,76.73B,tXmne0RQQbPLvFK3
+EOG,"EOG Resources, Inc.",76.62B,tXmne0RQQbUq2wqR
+EMR,Emerson Electric Co.,73.94B,tXmne0RQQbPLxSdo
+CEG,Constellation Energy Corporation,73.63B,tXmoG3nFFgslSZAm
+APD,"Air Products and Chemicals, Inc.",72.89B,tXmne0RQQbPLvXk8
+TDG,TransDigm Group Incorporated,72.71B,tXmne0RQQbUsaEq8
+NOC,Northrop Grumman Corporation,71.68B,tXmoG2W8G3v5U0re
+WMB,"The Williams Companies, Inc.",71.56B,tXmne0RQQbPNM051
+CVS,CVS Health Corporation,71.52B,tXmne0RQQbPLw24p
+FTNT,"Fortinet, Inc.",70.86B,tXmne0RQQb3RMtuU
+FDX,FedEx Corporation,70.37B,tXmne0RQQbUq2wu2
+MMM,3M Company,69.62B,tXmoG2G39BRqvRbu
+COF,Capital One Financial Corporation,68.94B,tXmne0RQQbPLw3gI
+ORLY,"O'Reilly Automotive, Inc.",68.63B,tXmne0RQQbPP35wa
+ECL,Ecolab Inc.,68.46B,tXmne0RQQbPLxR9m
+SPG,"Simon Property Group, Inc.",67.93B,tXmne0RQQbPMGgJI
+CARR,Carrier Global Corporation,66.84B,tXmoG3iocl6vRCIo
+CSX,CSX Corporation,66.67B,tXmne0RQQbPLw3kT
+RSG,"Republic Services, Inc.",66.58B,tXmne0RQQbPMFZCC
+ADSK,"Autodesk, Inc.",66.20B,tXmne0RQQbPNNQe6
+OKE,"ONEOK, Inc.",66.11B,tXmne0RQQbPMFrQ4
+AJG,Arthur J. Gallagher & Co.,64.93B,tXmne0RQQbPMDNqF
+BDX,"Becton, Dickinson and Company",64.28B,tXmne0RQQbPLwL5r
+RCL,Royal Caribbean Cruises Ltd.,63.42B,tXmne0RQQbPH8GZj
+DLR,"Digital Realty Trust, Inc.",62.86B,tXmne0RQQbPSjMae
+FCX,Freeport-McMoRan Inc.,62.79B,tXmne0RQQbPRcK1s
+KMI,"Kinder Morgan, Inc.",62.21B,tXmne0RUGp4He5xp
+CHTR,"Charter Communications, Inc.",61.99B,tXmne0RTnRK9KXC7
+SLB,Schlumberger Limited,61.47B,tXmne0RQQbPMFZ5w
+TFC,Truist Financial Corporation,61.30B,tXmne0RQQbPLwLS5
+AFL,Aflac Incorporated,61.24B,tXmne0RQQbPLvW8H
+HLT,Hilton Worldwide Holdings Inc.,60.98B,tXmoG22mgjPycP1R
+GM,General Motors Company,60.33B,tXmne0RUGJhwuoIK
+SRE,Sempra,58.98B,tXmne0RQPS45qqj6
+ROP,"Roper Technologies, Inc.",58.92B,tXmne0RQQbPMFZOU
+NSC,Norfolk Southern Corporation,58.58B,tXmne0RQQbPMFrwz
+PSA,Public Storage,58.45B,tXmne0RQQbPMFIYl
+TRV,"The Travelers Companies, Inc.",58.39B,tXmne0RQQbPMFZ1n
+PCAR,PACCAR Inc,57.67B,tXmne0RQQbPP4l6n
+GWW,"W.W. Grainger, Inc.",57.39B,tXmne0RQQbPMDNHh
+MET,"MetLife, Inc.",57.19B,tXmne0RQQbUq2wXY
+BK,The Bank of New York Mellon Corporation,56.62B,tXmoG2G39BkAIKiK
+FICO,Fair Isaac Corporation,56.23B,tXmne0RQQbPLxStU
+TGT,Target Corporation,56.07B,tXmne0RQQbUq2NWM
+NXPI,NXP Semiconductors N.V.,56.00B,tXmne0RUGp9o3ycq
+JCI,Johnson Controls International plc,54.95B,tXmoG22p8psFFswD
+AMP,"Ameriprise Financial, Inc.",54.46B,tXmne0RQPS9T2IFM
+PSX,Phillips 66,54.29B,tXmoG2XbfYzqYvgG
+URI,"United Rentals, Inc.",53.85B,tXmne0RQQbPNMtcn
+CPRT,"Copart, Inc.",53.39B,tXmne0RQQbPOUAtg
+FANG,"Diamondback Energy, Inc.",52.98B,tXmoG2XbgBc0mSi5
+VST,Vistra Corp.,52.61B,tXmoG27IRnI0WXUr
+DHI,"D.R. Horton, Inc.",52.39B,tXmne0RQQbPLxBqT
+ALL,The Allstate Corporation,52.24B,tXmne0RQQbPLwdRa
+MNST,Monster Beverage Corporation,52.22B,tXmoG22rqXCQYRJ9
+AEP,"American Electric Power Company, Inc.",51.55B,tXmne0RQQbPLwdZn
+AZO,"AutoZone, Inc.",51.55B,tXmne0RQQbPLwvq8
+MPC,Marathon Petroleum Corporation,51.22B,tXmoG2G5sMvZgKKn
+PAYX,"Paychex, Inc.",51.04B,tXmne0RQQbPP4miP
+O,Realty Income Corporation,49.93B,tXmne0RQQbPLvoYC
+CMI,Cummins Inc.,49.52B,tXmne0RQQbPLxBav
+PWR,"Quanta Services, Inc.",49.06B,tXmne0RQQbPMFI2t
+NEM,Newmont Corporation,48.73B,tXmne0RQQbPMFrwy
+D,"Dominion Energy, Inc.",48.55B,tXmoG2G5sMvX8Uol
+HWM,Howmet Aerospace Inc.,47.98B,tXmoG2G5t1NdJKWp
+OXY,Occidental Petroleum Corporation,47.77B,tXmne0RQQbPMFrIT
+COR,"Cencora, Inc.",47.67B,tXmne0RQQbPLwefU
+FAST,Fastenal Company,46.87B,tXmne0RQQbPOVGA9
+AIG,"American International Group, Inc.",46.57B,tXmne0RQQbPLwd3t
+AXON,"Axon Enterprise, Inc.",46.50B,tXmne0RQPS9T2ary
+LHX,"L3Harris Technologies, Inc.",46.35B,tXmoG2G39UGJUbAN
+FIS,"Fidelity National Information Services, Inc.",46.24B,tXmne0RQPS9T2q9X
+ROST,"Ross Stores, Inc.",46.22B,tXmne0RQQbPP5bbl
+NDAQ,"Nasdaq, Inc.",46.03B,tXms64W1bZ1kNxOJ
+ODFL,"Old Dominion Freight Line, Inc.",45.76B,tXmne0RQQbPP35jM
+LEN,Lennar Corporation,45.63B,tXmne0RQQbPMETqm
+MSCI,MSCI Inc.,45.61B,tXmne0RQQbPOVpCi
+KVUE,Kenvue Inc.,45.59B,tXmoG3nIe7SZTd6v
+KMB,Kimberly-Clark Corporation,45.48B,tXmne0RQQbPMECH7
+CCI,Crown Castle Inc.,45.36B,tXmoG22p8IOPYcxC
+HES,Hess Corporation,45.29B,tXmne0RQQbPLwd7F
+PCG,PG&E Corporation,45.10B,tXmne0RQQbPMFrVh
+PEG,Public Service Enterprise Group Incorporated,45.08B,tXmne0RQQbPMFI2o
+AME,"AMETEK, Inc.",44.72B,tXmne0RQQbPLwej0
+VLO,Valero Energy Corporation,44.70B,tXmne0RQQbPNMtkG
+TRGP,Targa Resources Corp.,44.23B,tXmoG2G5rQARFErP
+TEL,TE Connectivity plc,44.22B,tXmoG2XbitEOfc1c
+PRU,"Prudential Financial, Inc.",44.18B,tXmne0RQQbPJg5aX
+BKR,Baker Hughes Company,43.85B,tXmne0RQQbPLwLXd
+EA,Electronic Arts Inc.,43.72B,tXmne0RQQbPJfYYQ
+STZ,"Constellation Brands, Inc.",43.52B,tXmne0RQQbPRcKS8
+KDP,Keurig Dr Pepper Inc.,43.46B,tXmne0RUFagwaj5F
+DFS,Discover Financial Services,43.38B,tXmne0RQQbPKoVw4
+F,Ford Motor Company,42.64B,tXmne0RQQbPLvo2K
+KR,The Kroger Co.,41.68B,tXmne0RQQbPLvGdW
+IR,Ingersoll Rand Inc.,41.55B,tXmoG22mfHbUhqSa
+EW,Edwards Lifesciences Corporation,41.01B,tXmne0RQQbUpWkHA
+DAL,"Delta Air Lines, Inc.",40.80B,tXmne0RQQbPLxBmN
+GLW,Corning Incorporated,40.54B,tXmne0RQQbPLxkAm
+CTVA,"Corteva, Inc.",40.39B,tXmoG3c73RYXR5cH
+XEL,Xcel Energy Inc.,40.23B,tXmne0RQQbPMFrAF
+VRSK,"Verisk Analytics, Inc.",40.13B,tXmne0RUFazh0aqI
+IT,"Gartner, Inc.",39.96B,tXmne0RQQbPLvF5F
+OTIS,Otis Worldwide Corporation,39.82B,tXmoG3daC50ZCKNG
+CBRE,"CBRE Group, Inc.",39.64B,tXmne0RQPS9T03YR
+GRMN,Garmin Ltd.,39.48B,tXmne0RQQbUscQCZ
+EXC,Exelon Corporation,38.92B,tXmne0RQQbPLvWN8
+GEHC,GE HealthCare Technologies Inc.,38.79B,tXmoG2G39BkAJzfr
+CTSH,Cognizant Technology Solutions Corporation,38.46B,tXmne0RQQbPNOFAB
+LULU,Lululemon Athletica Inc.,37.85B,tXmne0RQPSVH47bC
+KHC,The Kraft Heinz Company,37.34B,tXmoG2XcAoNVoCR5
+YUM,"Yum! Brands, Inc.",37.08B,tXmne0RQQbPNMsRL
+A,"Agilent Technologies, Inc.",36.94B,tXmne0RQQbPRdiIC
+VMC,Vulcan Materials Company,36.69B,tXmne0RQQbPNMKnC
+EXR,Extra Space Storage Inc.,36.41B,tXmne0RQQbPKonLA
+LVS,Las Vegas Sands Corp.,36.19B,tXmne0RQQbPRctvx
+SYY,Sysco Corporation,36.17B,tXmne0RQQbPNMbOF
+ACGL,Arch Capital Group Ltd.,35.86B,tXmne0RQQbUq3CC4
+MLM,"Martin Marietta Materials, Inc.",35.77B,tXmne0RQQbPMETPg
+RMD,ResMed Inc.,35.45B,tXmne0RQQbPMFZCD
+MTB,M&T Bank Corporation,35.43B,tXmne0RQQbPMETCM
+GIS,"General Mills, Inc.",35.42B,tXmne0RQQbPMDNyT
+HUM,Humana Inc.,35.40B,tXmne0RQQbPMD4Oo
+HPQ,HP Inc.,35.35B,tXmne0RQQbPMD4F2
+IQV,IQVIA Holdings Inc.,35.28B,tXmoG27IRnIYGr7f
+HSY,The Hershey Company,35.21B,tXmne0RQQbPMD4F3
+MCHP,Microchip Technology Incorporated,34.97B,tXmne0RQQbPP3geP
+NUE,Nucor Corporation,34.79B,tXmne0RQQbPMFrEM
+IDXX,"IDEXX Laboratories, Inc.",34.28B,tXmne0RQQbPOWvWF
+HIG,"The Hartford Financial Services Group, Inc.",34.27B,tXmne0RQQbPMD4tF
+DD,"DuPont de Nemours, Inc.",34.21B,tXmoG27GjIDb2Kyu
+IRM,Iron Mountain Incorporated,34.13B,tXmoG22rqldblQAQ
+WAB,Westinghouse Air Brake Technologies Corporation,34.06B,tXmne0RQQbUq24A0
+ED,"Consolidated Edison, Inc.",33.91B,tXmne0RQQbPLvpe8
+VICI,VICI Properties Inc.,33.86B,tXmoG27PkTNraWqN
+EIX,Edison International,33.34B,tXmne0RQQbPLxR9g
+RJF,"Raymond James Financial, Inc.",32.97B,tXms64W1bZ1kNOA8
+TTWO,"Take-Two Interactive Software, Inc.",32.58B,tXmne0RQQbUurrpA
+CCL,Carnival Corporation & plc,32.58B,tXmne0RQPS9QBBeS
+AVB,"AvalonBay Communities, Inc.",32.41B,tXmne0RQQbPLwvi0
+ETR,Entergy Corporation,32.31B,tXmne0RQQbPLxShx
+ROK,"Rockwell Automation, Inc.",31.62B,tXmne0RQQbPMFZKR
+LYV,"Live Nation Entertainment, Inc.",31.48B,tXmoG2G4btHHYiEW
+WEC,"WEC Energy Group, Inc.",31.40B,tXmne0RQQbPNM054
+BRO,"Brown & Brown, Inc.",31.34B,tXmne0RQQbUq2frZ
+CSGP,"CoStar Group, Inc.",31.27B,tXmne0RQQbUq4Jh2
+UAL,"United Airlines Holdings, Inc.",31.12B,tXmne0RQQbPNMsVV
+WTW,Willis Towers Watson Public Limited Company,31.08B,tXmne0RQPS9T1BWL
+FITB,Fifth Third Bancorp,31.05B,tXmne0RQQbPOVGFi
+DOW,Dow Inc.,30.86B,tXmoG2G4aeJc1B0v
+EFX,Equifax Inc.,30.63B,tXmne0RQQbPLxShF
+ANSS,"ANSYS, Inc.",29.93B,tXmne0RQQbPNNzko
+XYL,Xylem Inc.,29.84B,tXmoG2W8HZ2INAse
+CNC,Centene Corporation,29.84B,tXmne0RQQbPJgOAN
+DXCM,"DexCom, Inc.",29.39B,tXmne0RQQbPKnhm9
+GPN,Global Payments Inc.,29.22B,tXmne0RQQbPH6LIb
+EBAY,eBay Inc.,29.13B,tXmne0RQQbPOU8vc
+CAH,"Cardinal Health, Inc.",29.12B,tXmne0RQQbPLw3gH
+EQR,Equity Residential,28.90B,tXmne0RQQbPLxSlK
+SW,Smurfit Westrock Plc,28.86B,tXmne0RQPSVH4y9A
+TSCO,Tractor Supply Company,28.85B,tXmne0RQPS9Ptc3g
+ON,ON Semiconductor Corporation,28.66B,tXmne0RQQbUvzPwZ
+KEYS,"Keysight Technologies, Inc.",28.56B,tXmoG22nAq0L7oer
+PPG,"PPG Industries, Inc.",28.10B,tXmne0RQQbPMFrZq
+STT,State Street Corporation,27.94B,tXmne0RQQbPMGg4o
+K,Kellanova,27.84B,tXmne0RQQbPLvoYw
+EQT,EQT Corporation,27.77B,tXmoG22oSmi6pEV2
+NVR,"NVR, Inc.",27.57B,tXmne0RQQbPMFaSc
+HPE,Hewlett Packard Enterprise Company,27.51B,tXmoG22t0cDHqXLm
+HAL,Halliburton Company,27.39B,tXmne0RQQbPMD4hm
+MPWR,"Monolithic Power Systems, Inc.",27.32B,tXmne0RQQbPKpcEf
+CHD,"Church & Dwight Co., Inc.",27.27B,tXmne0RQQbPLxjZb
+DOV,Dover Corporation,27.18B,tXmne0RQQbPLxBu4
+VTR,"Ventas, Inc.",27.12B,tXmne0RQQbPNMJQy
+AWK,"American Water Works Company, Inc.",26.87B,tXmne0RQQbPLwd3z
+DECK,Deckers Outdoor Corporation,26.79B,tXmne0RQQbPOURAl
+LYB,LyondellBasell Industries N.V.,26.79B,tXmoG2G4bM3VFWQZ
+GDDY,GoDaddy Inc.,26.69B,tXmoG22oSmi9QLPZ
+BR,"Broadridge Financial Solutions, Inc.",26.35B,tXmne0RQQbPKoEx5
+FTV,Fortive Corporation,26.28B,tXmoG22vjnh9lPfh
+PHM,"PulteGroup, Inc.",26.26B,tXmne0RQQbPMFI2n
+TROW,"T. Rowe Price Group, Inc.",26.11B,tXmne0RQQbPP4DlN
+VLTO,Veralto Corporation,25.99B,tXmoG3nL7wR48jdz
+CPAY,"Corpay, Inc.",25.74B,tXmne0RR6frjFv2x
+TYL,"Tyler Technologies, Inc.",25.73B,tXmne0RQQbUq24wS
+ADM,Archer-Daniels-Midland Company,25.61B,tXmne0RQQbPLwveN
+HBAN,Huntington Bancshares Incorporated,25.38B,tXmne0RQQbPOWvKh
+DTE,DTE Energy Company,25.30B,tXmne0RQPS0ms0Yw
+PPL,PPL Corporation,25.29B,tXmne0RQQbUq2Nx3
+NTAP,"NetApp, Inc.",25.28B,tXmne0RQQbPP3OkY
+DVN,Devon Energy Corporation,25.16B,tXmne0RQQbUq2fUV
+SYF,Synchrony Financial,25.07B,tXmoG22oQazWPMuQ
+MTD,Mettler-Toledo International Inc.,24.62B,tXmne0RQQbPMFaxF
+AEE,Ameren Corporation,24.62B,tXmne0RQQbPLwdZm
+WBD,"Warner Bros. Discovery, Inc.",24.41B,tXmne0RQQbPP3NV6
+FE,FirstEnergy Corp.,24.05B,tXmne0RQQbPLvFTi
+ROL,"Rollins, Inc.",23.94B,tXmne0RQQbPMFZOW
+HUBB,Hubbell Incorporated,23.91B,tXmne0RQQbPRc1Bw
+RF,Regions Financial Corporation,23.87B,tXmne0RQQbPP4UoL
+CINF,Cincinnati Financial Corporation,23.70B,tXmne0RQQbPNOFoj
+SBAC,SBA Communications Corporation,23.54B,tXmoG27IRnIZOQT4
+CDW,CDW Corporation,23.45B,tXmne0RQQbPNOn4F
+EL,The Estée Lauder Companies Inc.,23.45B,tXmne0RQQbPLvF9N
+WRB,W. R. Berkley Corporation,23.22B,tXmne0RQQbPNN65L
+EXPE,"Expedia Group, Inc.",22.99B,tXmoG2XbhxAdEbqs
+ATO,Atmos Energy Corporation,22.88B,tXmne0RQQbPLwvm4
+BIIB,Biogen Inc.,22.73B,tXmne0RQQbPOWvOu
+IFF,International Flavors & Fragrances Inc.,22.71B,tXmne0RQQbPMECjl
+PTC,PTC Inc.,22.64B,tXmne0RQQbPP4meB
+ES,Eversource Energy,22.57B,tXmne0RQQbPLvGh9
+WST,"West Pharmaceutical Services, Inc.",22.57B,tXmne0RQQbUq24wZ
+TSN,"Tyson Foods, Inc.",22.51B,tXmne0RQQbPNMsZV
+WY,Weyerhaeuser Company,22.28B,tXmne0RQQbPLvW4D
+WDC,Western Digital Corporation,22.07B,tXmne0RQQbPNM01S
+ERIE,Erie Indemnity Company,21.93B,tXmne0RQQbPOVpSL
+STLD,"Steel Dynamics, Inc.",21.93B,tXmne0RQQbPRbnjg
+TDY,Teledyne Technologies Incorporated,21.92B,tXmne0RQQbUq2N0W
+CBOE,"Cboe Global Markets, Inc.",21.83B,tXmne0RR5VVOi4pp
+PKG,Packaging Corporation of America,21.77B,tXmne0RQQbUq2Nx7
+ZBH,"Zimmer Biomet Holdings, Inc.",21.75B,tXmne0RQQbPLvoL6
+LDOS,"Leidos Holdings, Inc.",21.64B,tXmne0RQQbPH6dpN
+NTRS,Northern Trust Corporation,21.38B,tXmne0RQQbPP34Zd
+WAT,Waters Corporation,21.24B,tXmne0RQQbPNM0PB
+STE,STERIS plc,20.95B,tXmoG3c74aJE66o6
+FOXA,Fox Corporation,20.87B,tXmoG3c9lud9wkt1
+CLX,The Clorox Company,20.80B,tXmne0RQQbPLxkbv
+STX,Seagate Technology Holdings plc,20.73B,tXmoG2G4bNrkH0BG
+INVH,Invitation Homes Inc.,20.71B,tXmoG27ITgj6uCTa
+MKC,"McCormick & Company, Incorporated",20.70B,tXmne0RQQbPMETXs
+CNP,"CenterPoint Energy, Inc.",20.58B,tXmne0RQQbUq2NKs
+CMS,CMS Energy Corporation,20.47B,tXmne0RQQbPLw28w
+IP,International Paper Company,20.44B,tXmne0RQQbPLvF9T
+CFG,"Citizens Financial Group, Inc.",20.33B,tXmne0RR6yEgR8TB
+FOX,Fox Corporation,20.32B,tXmoG3c9lud9wkt1
+BLDR,"Builders FirstSource, Inc.",20.12B,tXmne0RQQbPKptC7
+ESS,"Essex Property Trust, Inc.",20.02B,tXmne0RQQbPLxSlL
+LH,Labcorp Holdings Inc.,19.89B,tXmoG3nNnTGsyyKb
+ZBRA,Zebra Technologies Corporation,19.83B,tXmne0RQQbPRcKCB
+FSLR,"First Solar, Inc.",19.79B,tXmne0RQQbUoLshd
+CTRA,Coterra Energy Inc.,19.76B,tXmne0RQQbPLw3kO
+COO,"The Cooper Companies, Inc.",19.73B,tXmne0RQQbPLxkv7
+OMC,Omnicom Group Inc.,19.33B,tXmne0RQQbPMFrMY
+PFG,"Principal Financial Group, Inc.",19.25B,tXmne0RQQbPJgxc8
+NRG,"NRG Energy, Inc.",19.15B,tXmne0RQQbUq2NtR
+DRI,"Darden Restaurants, Inc.",19.10B,tXmne0RQQbPLxBiJ
+LUV,Southwest Airlines Co.,19.05B,tXmne0RQQbPMGgR0
+BF.B,Brown-Forman Corporation,19.05B,tXmne0RQQbPNN7yI
+MAA,"Mid-America Apartment Communities, Inc.",18.92B,tXmne0RQPS46xa0W
+KEY,KeyCorp,18.85B,tXmne0RQQbPMECL7
+SNA,Snap-on Incorporated,18.79B,tXmne0RQQbPMGgNQ
+PODD,Insulet Corporation,18.70B,tXmne0RQQbPKoVFk
+BBY,"Best Buy Co., Inc.",18.63B,tXmne0RQQbPLwMdK
+L,Loews Corporation,18.40B,tXmne0RQPSVFOANp
+JBHT,"J.B. Hunt Transport Services, Inc.",18.31B,tXmne0RQQbPOWvKf
+ARE,"Alexandria Real Estate Equities, Inc.",18.23B,tXmne0RQQbPLwdZr
+GEN,Gen Digital Inc.,18.14B,tXmne0RQQbPRbnDZ
+HOLX,"Hologic, Inc.",18.13B,tXmne0RQQbPOWvxZ
+BALL,Ball Corporation,18.03B,tXmne0RQQbPLwL1g
+FDS,FactSet Research Systems Inc.,18.02B,tXmne0RQQbPLxStV
+DGX,Quest Diagnostics Incorporated,18.01B,tXmne0RQQbPMFI2u
+VRSN,"VeriSign, Inc.",17.43B,tXmne0RQQbPRccok
+NI,NiSource Inc.,17.41B,tXmne0RQQbUpWkHB
+PNR,Pentair plc,17.21B,tXmoG22miu6J0456
+TRMB,Trimble Inc.,17.21B,tXmoG27IRnI0Yk1i
+KIM,Kimco Realty Corporation,16.94B,tXmne0RQQbPMECL6
+NWS,News Corporation,16.94B,tXmoG2XdSktNQREc
+IEX,IDEX Corporation,16.89B,tXmne0RQQbPMElkp
+TER,"Teradyne, Inc.",16.87B,tXmne0RQQbPNMb05
+MOH,"Molina Healthcare, Inc.",16.85B,tXmne0RQQbUpTRgl
+GPC,Genuine Parts Company,16.79B,tXmne0RQQbPMDNyZ
+ALGN,"Align Technology, Inc.",16.71B,tXmne0RQQbPH6uJg
+BAX,Baxter International Inc.,16.66B,tXmne0RQQbPLwL5p
+EXPD,"Expeditors International of Washington, Inc.",16.65B,tXmne0RQQbPOVGoM
+MAS,Masco Corporation,16.61B,tXmne0RQQbPMETPf
+HRL,Hormel Foods Corporation,16.57B,tXmne0RQQbPMD4Kd
+NWSA,News Corporation,16.57B,tXmoG2XdSktNQREc
+UDR,"UDR, Inc.",16.53B,tXmne0RQQbPNMtci
+J,Jacobs Solutions Inc.,16.46B,tXmne0RQQbPMECzI
+EG,"Everest Group, Ltd.",16.20B,tXmne0RQQbUpWkLL
+MRO,Marathon Oil Corporation,16.18B,tXmne0RQQbPNMsZU
+ULTA,"Ulta Beauty, Inc.",16.17B,tXmoG27KafoHDl3r
+DG,Dollar General Corporation,16.11B,tXmne0RQQbPLvFPb
+LNT,Alliant Energy Corporation,15.97B,tXmne0RQQbUpWkPV
+AVY,Avery Dennison Corporation,15.88B,tXmne0RQQbPLwvra
+VTRS,Viatris Inc.,15.67B,tXmoG2W8HmWVJLrT
+CF,"CF Industries Holdings, Inc.",15.65B,tXmne0RQQbPLwveL
+DOC,"Healthpeak Properties, Inc.",15.29B,tXmne0RQQbPMD4tM
+TXT,Textron Inc.,15.19B,tXmne0RQQbPNMb5c
+DPZ,"Domino's Pizza, Inc.",15.16B,tXmne0RQPS9T1B83
+SMCI,"Super Micro Computer, Inc.",15.11B,tXmne0RQQbPP3N0j
+AMCR,Amcor plc,14.89B,tXmoG3c5ukmJ3fpk
+EVRG,"Evergy, Inc.",14.80B,tXmoG27PlcQNpMTd
+JBL,Jabil Inc.,14.46B,tXmne0RQQbPMECvF
+NDSN,Nordson Corporation,14.44B,tXmne0RQQbPP34U2
+MRNA,"Moderna, Inc.",14.22B,tXmoG3c73R3KctEy
+FFIV,"F5, Inc.",14.19B,tXmne0RQQbUsbtnU
+BXP,"BXP, Inc.",14.03B,tXmne0RQQbPLwMp7
+POOL,Pool Corporation,13.74B,tXmne0RQQbPP5bfw
+INCY,Incyte Corporation,13.69B,tXmne0RQQbPOWv4V
+DLTR,"Dollar Tree, Inc.",13.58B,tXmne0RQQbPOURQT
+REG,Regency Centers Corporation,13.57B,tXmoG22mgjUiinrG
+RVTY,"Revvity, Inc.",13.55B,tXmne0RQQbUq2NCf
+SWKS,"Skyworks Solutions, Inc.",13.34B,tXmne0RQQbPNNipC
+EPAM,"EPAM Systems, Inc.",13.30B,tXmne0RTneTqG9fT
+DVA,DaVita Inc.,13.23B,tXmne0RQQbPNMsJw
+AKAM,"Akamai Technologies, Inc.",13.21B,tXmne0RQQbUq3lD4
+SWK,"Stanley Black & Decker, Inc.",13.17B,tXmne0RQQbPMGg4l
+CPT,Camden Property Trust,13.05B,tXmne0RQQbPLw3o5
+CPB,Campbell Soup Company,13.04B,tXmne0RQQbPLw3cH
+UHS,"Universal Health Services, Inc.",13.03B,tXmne0RQQbPNMtkH
+CAG,"Conagra Brands, Inc.",12.94B,tXmne0RQQbPLxkr3
+CHRW,"C.H. Robinson Worldwide, Inc.",12.89B,tXmne0RQQbPNOn8K
+TPR,"Tapestry, Inc.",12.89B,tXmne0RQQbPJfYQA
+ALB,Albemarle Corporation,12.88B,tXmne0RQQbPLwdM5
+RL,Ralph Lauren Corporation,12.55B,tXmne0RQQbPLvWSb
+JKHY,"Jack Henry & Associates, Inc.",12.48B,tXmne0RQQbPOWe51
+TAP,Molson Coors Beverage Company,12.44B,tXmne0RQQbPLxA2b
+APTV,Aptiv PLC,12.36B,tXmoG2W8F7KmNCca
+BG,Bunge Global SA,12.30B,tXmne0RQQbUsaD6z
+PAYC,"Paycom Software, Inc.",12.28B,tXmoG22mivf7moiD
+HST,"Host Hotels & Resorts, Inc.",12.18B,tXmne0RQQbUq2wHt
+ALLE,Allegion plc,12.12B,tXmoG22mfG2EUgyH
+DAY,Dayforce Inc.,11.97B,tXmoG22rppwhZXvh
+SJM,The J. M. Smucker Company,11.93B,tXmne0RQQbPRc14m
+KMX,"CarMax, Inc.",11.88B,tXmne0RQQbPLxjY6
+SOLV,Solventum Corporation,11.81B,tXmoG3c2TP9iodqu
+JNPR,"Juniper Networks, Inc.",11.81B,tXmne0RQQbUsc7Of
+EMN,Eastman Chemical Company,11.74B,tXmne0RQQbPLxBDi
+NCLH,Norwegian Cruise Line Holdings Ltd.,11.45B,tXmoG2G4b6ljDKjW
+BEN,"Franklin Resources, Inc.",11.33B,tXmne0RQQbPMDNip
+AIZ,"Assurant, Inc.",11.33B,tXmne0RQPS9T1lmC
+MGM,MGM Resorts International,11.17B,tXmne0RQQbPMETGS
+TECH,Bio-Techne Corporation,10.92B,tXmne0RQQbPRbEml
+LW,"Lamb Weston Holdings, Inc.",10.85B,tXmoG27HBkEaD1PA
+GNRC,Generac Holdings Inc.,10.72B,tXmoG2G4aRdw0CgZ
+CTLT,"Catalent, Inc.",10.71B,tXmoG2G39BH4lXL3
+IPG,"The Interpublic Group of Companies, Inc.",10.57B,tXmne0RQQbPMECns
+PNW,Pinnacle West Capital Corporation,10.44B,tXmne0RQQbPMFIHN
+AOS,A. O. Smith Corporation,10.40B,tXmne0RQQbPRc10m
+MKTX,MarketAxess Holdings Inc.,10.01B,tXmne0RQQbUus5eR
+WYNN,"Wynn Resorts, Limited",9.93B,tXmne0RQQbUtkX2a
+LKQ,LKQ Corporation,9.70B,tXmne0RQPS9T2rqu
+FRT,Federal Realty Investment Trust,9.68B,tXmne0RQQbPLxSx4
+CRL,"Charles River Laboratories International, Inc.",9.61B,tXmne0RQQbPH8G3u
+AES,The AES Corporation,9.44B,tXmne0RQQbPLvXg5
+HSIC,"Henry Schein, Inc.",9.19B,tXmne0RQQbPP5bz3
+GL,Globe Life Inc.,9.13B,tXmne0RQQbPNMsJs
+TFX,Teleflex Incorporated,8.70B,tXmne0RQQbPNMbW0
+HAS,"Hasbro, Inc.",8.63B,tXmne0RQQbPMD4tI
+MHK,"Mohawk Industries, Inc.",8.57B,tXmne0RQQbPMFaJV
+ENPH,"Enphase Energy, Inc.",8.56B,tXmne0RUFaD3bC3V
+APA,APA Corporation,8.19B,tXmne0RQQbPLwu6D
+MOS,The Mosaic Company,8.08B,tXmoG2G4aezNooHJ
+CZR,"Caesars Entertainment, Inc.",7.99B,tXmne0RQQbPMD4pA
+CE,Celanese Corporation,7.97B,tXmne0RQPS9T1TAU
+IVZ,Invesco Ltd.,7.82B,tXmne0RUFauCqQrR
+MTCH,"Match Group, Inc.",7.64B,tXmoG2G39B0LBcXs
+HII,"Huntington Ingalls Industries, Inc.",7.44B,tXmoG2G5r9D8gaJh
+BWA,BorgWarner Inc.,7.28B,tXmne0RQQbPLw2V4
+FMC,FMC Corporation,7.14B,tXmne0RQQbPLxSpT
+WBA,"Walgreens Boots Alliance, Inc.",7.12B,tXmoG22qahUlBh6W
+PARA,Paramount Global,7.06B,tXmne0RQQbPRdiEz
+QRVO,"Qorvo, Inc.",6.21B,tXmoG22oQaSIDH1M
+AMTM,"Amentum Holdings, Inc.",5.45B,tXmoG3iuFeVO6cdK
