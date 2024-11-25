@@ -1,0 +1,89 @@
+                                        Open-Source Data License Terms
+
+1. Introduction and Background
+    1.1 Purpose.
+        These Terms outline the terms under which we (the "Licensor") make available structured and tagged
+        data (the “Data”) derived from publicly accessible documents of global companies. The Data has been
+        processed and organised to facilitate downstream use in platforms and Large Language Models (LLMs)
+        such as ChatGPT.
+    1.2 The Data provided under these Terms is derived solely from publicly available information gathered
+        through company disclosures, websites, news sources, and other accessible documents. Our processing of
+        the Data does not alter the underlying public domain status of the information but instead provides a
+        structured and tagged format intended to enhance usability and functionality for Users.
+
+2. License Grant and Scope
+    2.1 The Licensor grants you ("User") a worldwide, non-exclusive, royalty-free, irrevocable license to
+        download, use, modify, and distribute the Data in accordance with the terms set forth in these Terms.
+    2.2 The Data may be used for both commercial and non-commercial purposes, including research, analysis, and
+        model training, subject to compliance with the terms herein and applicable laws. Users are encouraged
+        to credit the Licensor if the Data or any derived work is published.
+    2.3 Users must not:
+        2.3.1 Misrepresent the source of the Data or claim it as their own work.
+        2.3.2 Use the Data in a manner that infringes any third-party rights or violates applicable laws.
+
+3. Compliance with Legal and Regulatory Requirements
+    3.1 Users, especially those in regulated industries, are responsible for determining their compliance with
+        relevant laws, regulations, and standards that may apply to their usage of the Data. This includes, but
+        is not limited to, industry-specific data processing regulations, data privacy requirements, and any
+        sectoral guidelines on data usage and dissemination.
+    3.2 The Licensor makes no representation regarding the suitability of the Data for regulated entities or
+        compliance with industry-specific standards. Users are solely responsible for any required certifications
+        or regulatory compliance associated with their use of the Data.
+
+4. Data Processing and Attribution
+    4.1 The Data provided under these Terms has been processed to convert original public documents into a
+        structured and tagged format for ease of use. This processing step is intended solely to assist Users
+        by making the Data more accessible for research and other purposes.
+    4.2 Users are encouraged to provide attribution to the Licensor in any publication, distribution, or
+        presentation that incorporates the Data or derivatives of it, as follows: "[Data Source] processed and
+        tagged by [Licensor]."
+    4.3 Users are permitted to create derivative works based on the Data. However, any such derivative work
+        must retain these Terms attribution requirements and terms, and may not misrepresent the original
+        source of the Data.
+
+5. Intellectual Property and Proprietary Rights
+    5.1 All rights, title, and interest in and to the processing and structuring of the Data remain with the
+        Licensor, while the underlying Data itself remains in the public domain. Users acknowledge that they
+        acquire no proprietary rights in the original public data by virtue of these Terms.
+    5.2 Where applicable, Users must respect any third-party rights and comply with third-party licensing terms
+        if using any non-public third-party content or combining it with the Data.
+
+6. Warranties, Disclaimers, and Limitation of Liability
+    6.1 The Data is provided on an "as-is" basis, without any warranties, express or implied, including but not
+        limited to accuracy, completeness, fitness for a particular purpose, or non-infringement. Users assume
+        all responsibility and risk for their use of the Data.
+    6.2 To the fullest extent permissible under applicable law, the Licensor shall not be liable for any indirect,
+        incidental, consequential, special, or punitive damages, or for any loss of profits or business
+        opportunities, arising out of or related to these Terms or the use or inability to use the Data.
+    6.3 The Licensor’s total aggregate liability to any User under these Terms, regardless of the cause of
+        action, shall not exceed £1,000.
+
+7. Indemnity
+    7.1 Users agree to indemnify and hold harmless the Licensor, its affiliates, officers, and agents from and
+        against any claims, liabilities, damages, losses, or expenses (including reasonable legal fees) arising
+        from or related to their use of the Data, breach of these Terms, or violation of any applicable laws
+        or regulations.
+
+8. Termination
+    8.1 The Licensor reserves the right to terminate or suspend these Terms or revoke User access to the Data at
+        any time without prior notice. Upon termination, Users must discontinue all use of the Data and remove
+        any copies in their possession or control.
+    8.2 Sections 5, 6, 7, and 9 of these Terms shall survive termination and continue to be in effect.
+
+9. Governing Law and Dispute Resolution
+    9.1 These Terms is governed by and shall be construed in accordance with the laws of England and Wales.
+    9.2 Any disputes arising out of or in connection with these Terms shall be submitted to the exclusive
+        jurisdiction of the courts of England and Wales.
+
+10. Miscellaneous Provisions
+    10.1 These Terms constitutes the entire agreement between the parties and supersedes all prior agreements or
+         representations.
+    10.2 The Licensor reserves the right to amend these Terms from time to time, with such amendments effective
+         upon posting.
+    10.3 If any provision of these Terms is found to be unenforceable, the remaining provisions shall continue
+         in full force and effect.
+    10.4 The failure of the Licensor to enforce any provision shall not be construed as a waiver of its rights.
+
+11. Acceptance of Terms
+    By accessing, downloading, or using the Data, Users agree to be bound by these Terms. Users who do not accept
+    the terms must refrain from using the Data.
