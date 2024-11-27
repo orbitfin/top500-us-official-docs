@@ -43,7 +43,7 @@ to download the raw report and report block information. Refer to
 this [link](Installing or updating to the latest version of the AWS CLI)
 to know how to install in your desktop.
 
-Use the key provided to config your AWS CLI.
+Use the key(keys.csv) provided to config your AWS CLI.
 
 #### Run the demo
 
