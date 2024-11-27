@@ -31,6 +31,17 @@ three formats to support diverse use cases:
 - Vector Versions:
     - Pre-processed for retrieval systems, enabling semantic search and advanced AI applications.
 
+#### Dataset Size
+
+The dataset is organized into approximately 5,713 files, occupying a total S3 storage size of ~314.57 GB. Below is the
+breakdown by format:
+
+- PDF Files: ~5.85 GB
+- Blocks Data: ~4.37 GB
+- Pages Data: ~1.38 GB
+- Blocks Text Data: ~290.54 GB
+- Pages Text Data: ~12.11 GB
+
 ## How to use
 
 #### Set up environment
@@ -53,9 +64,11 @@ getting report basic info, raw report, block report, page report info.
 ```text
 Report Title: 10-K
 Report Path: s3://filing-reports/reports-data/stock_us/2024/02/21/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf
-Presigned URL: https://filing-reports.s3.amazonaws.com/reports-data/stock_us/2024/02/21/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf?AWSAccessKeyId=AKIAZ2SDT5DU46K54RGA&Signature=Ry7tuGRfY7LHTa82%2FUJE3c%2BaUOA%3D&Expires=1732519348
-Presigned URL Pages: https://filing-reports.s3.amazonaws.com/txt-vector/reports-data/stock_us/2024/02/21/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf/pages.txt?AWSAccessKeyId=AKIAZ2SDT5DU46K54RGA&Signature=bJU8qTTmUdHEvyPHR7ySFKPgVG4%3D&Expires=1732519348
-Presigned URL Blocks: https://filing-reports.s3.amazonaws.com/txt-vector/reports-data/stock_us/2024/02/21/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf/blocks.txt?AWSAccessKeyId=AKIAZ2SDT5DU46K54RGA&Signature=UFdAcL7%2B9CHWfccve8uAUdTLjSg%3D&Expires=1732519348
+Presigned URL: https://filing-reports.s3.amazonaws.com/reports-data/stock_us/2024/02/21/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf?AWSAccessKeyId=AKIAZ2SDT5DU46K54RGA&Signature=yrcrUASsBWTJ6F2ZB04qOXUWlkk%3D&Expires=1732704535
+Presigned URL Pages: https://filing-reports.s3.amazonaws.com/txt-vector/reports-data/stock_us/2024/02/21/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf/pages.txt?AWSAccessKeyId=AKIAZ2SDT5DU46K54RGA&Signature=x105ImnWAXBrtVswDt34rPqctv8%3D&Expires=1732704535
+Presigned URL Blocks: https://filing-reports.s3.amazonaws.com/txt-vector/reports-data/stock_us/2024/02/21/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf/blocks.txt?AWSAccessKeyId=AKIAZ2SDT5DU46K54RGA&Signature=%2FosUcHLvKb42Ke5jVa2cIYmM7r0%3D&Expires=1732704535
+Presigned URL Blocks Vector: https://filing-reports.s3.amazonaws.com/txt-vector/reports-data/stock_us/2024/02/21/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf/pages.txt.vector?AWSAccessKeyId=AKIAZ2SDT5DU46K54RGA&Signature=D1cOvtOV5uTetePojnUxZjhjYFw%3D&Expires=1732704535
+Presigned URL Blocks Vector: https://filing-reports.s3.amazonaws.com/txt-vector/reports-data/stock_us/2024/02/21/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf/blocks.txt.vector?AWSAccessKeyId=AKIAZ2SDT5DU46K54RGA&Signature=LnXsfFGX5jeh2BGakUmu9PoFnk4%3D&Expires=1732704535
 ```
 
 If you would like to get more information, you can adjust the code accordingly.
@@ -71,6 +84,10 @@ under a human reading habit.
 
 Page report: Orbit extract a report info into pages, each page contains all the information with
 machine readable format.
+
+Block report vector: The Block report with vector format.
+
+Page report vector: The Page report with vector format.
 
 ## License and Attribution
 
