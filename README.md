@@ -57,9 +57,9 @@ getting report basic info, raw report, block report, page report info.
 ```text
 Report Title: 10-K
 Report Path: https://ot-cdn.s3.us-west-2.amazonaws.com/top500-us-official-docs/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf
-Pages Path: https://ot-cdn.s3.us-west-2.amazonaws.com/top500-us-official-docs/txt-vector/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf/pages.txt
+Pages  Path: https://ot-cdn.s3.us-west-2.amazonaws.com/top500-us-official-docs/txt-vector/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf/pages.txt
 Blocks Path: https://ot-cdn.s3.us-west-2.amazonaws.com/top500-us-official-docs/txt-vector/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf/blocks.txt
-Pages Vector Path: https://ot-cdn.s3.us-west-2.amazonaws.com/top500-us-official-docs/txt-vector/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf/pages.txt.vector
+Pages  Vector Path: https://ot-cdn.s3.us-west-2.amazonaws.com/top500-us-official-docs/txt-vector/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf/pages.txt.vector
 Blocks Vector Path: https://ot-cdn.s3.us-west-2.amazonaws.com/top500-us-official-docs/txt-vector/edgar-data-1045810-000104581024000029-nvda-20240128.htm.pdf/blocks.txt.vector
 ```
 
