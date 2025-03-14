@@ -47,7 +47,7 @@ breakdown by format:
 #### Set up environment
 
 First of all, you need to clone this repo(By GIT) or download code directly.
-When you get the code, you can install Python by using `pip install -r requirements.txt`.
+When you get the code, you can install Python related packages by using `pip install -r requirements.txt`.
 
 #### Run the demo
 
